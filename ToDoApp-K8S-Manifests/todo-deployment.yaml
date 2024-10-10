@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: lugnapuckar/todoapp:aa2c071ded52999c26ae685cd30133fec357c5ef
+        image: lugnapuckar/todoapp:60133d03baa24f4e93bc561d917e52c594b6c832
         ports:
         - containerPort: 80
         envFrom: 
